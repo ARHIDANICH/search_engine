@@ -1,0 +1,9 @@
+CMakePresets.json
+config.json
+functions.cpp
+functions.h
+main.exe
+.vscode/settings.json
+.vscode/tasks.json
+out/build/default
+out/build/resources
